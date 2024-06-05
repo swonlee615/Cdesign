@@ -3,7 +3,7 @@
 
 void main() 
 { 
-    char C[4] = {88, 89, 90}; 
+    char C[3] = {88, 89, 90}; 
    
     printf("%c %c %c\n", C[0], C[1], C[2]);
 

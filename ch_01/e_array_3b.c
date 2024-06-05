@@ -3,7 +3,7 @@
 
 int main() 
 {
-    char C[4] = {'X', 'Y', 'Z'}; 
+    char C[3] = {'X', 'Y', 'Z'}; 
     
     printf("%c %c %c\n", C[0], C[1], C[2]);
         
